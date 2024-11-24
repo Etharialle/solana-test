@@ -1,0 +1,12 @@
+{
+    "name": "Ginger Squirrel",
+    "symbol": "GSC",
+    "uri": "https://raw.githubusercontent.com/YourGitHubUsername/YourRepoName/main/metadata.json",
+    "seller_fee_basis_points": 0,
+    "creators": [
+        {
+            "address": "###",
+            "share": 100
+        }
+    ]
+}
